@@ -1,6 +1,6 @@
 {
-    "name": "larakit/sf-angular-yamap",
-    "description": "[Larakit] [staticfiles] sf-angular-yamap",
+    "name": "larakit/sf-angular-chartjs",
+    "description": "[Larakit] [staticfiles] sf-angular-chartjs",
     "version": "1.5.9",
     "license": "MIT",
     "require":{
